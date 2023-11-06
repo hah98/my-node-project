@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "node test.js && echo 'No tests to run'"
+    "test": "node test.js",
+    "no-test": "echo 'No tests to run'"
   },
   "keywords": [],
   "author": "",
@@ -13,3 +14,4 @@
     "dotenv": "^16.3.1"
   }
 }
+
