@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "test": "echo 'No tests to run'"
+   "node test.js && echo 'No tests to run'"
   },
   "keywords": [],
   "author": "",
