@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-   "test": "node test.js"
-=======
    "test": "echo 'No tests to run'"
->>>>>>> 75534e62dbcd64b7d1d14b0499776b029eec37ac
   },
   "keywords": [],
   "author": "",
